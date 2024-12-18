@@ -1,0 +1,3 @@
+/workspaces/Class-Scheduling/build/CMakeFiles/FdbExample.dir
+/workspaces/Class-Scheduling/build/CMakeFiles/edit_cache.dir
+/workspaces/Class-Scheduling/build/CMakeFiles/rebuild_cache.dir
